@@ -1,0 +1,16 @@
+Error log for Proshop Mern Udemy Course
+
+10.19.2020.
+
+The npm start error has been resolved.
+The solution was that I needed to remove the node_modules directory higher up.
+
+10.25.2020
+The problem is that when I enter git add . and git commit, I get a console message saying:
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+However, I have recently changed files. 
