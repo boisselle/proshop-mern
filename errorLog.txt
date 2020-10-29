@@ -14,3 +14,8 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 
 However, I have recently changed files. 
+
+Same problem occurred again
+
+Try to fix this by deleting the git, and then reinitializing it.
+
